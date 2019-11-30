@@ -1,0 +1,2 @@
+﻿Set-ExecutionPolicy RemoteSigned
+
